@@ -49,7 +49,7 @@
   </a>
     <br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,flutter,androidstudio,github,docker,vscode,figma,git,linux" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,github,docker,vscode,figma,git,linux" />
     </a>
 </div>
 
