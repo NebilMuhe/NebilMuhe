@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **MERN**
  
- 🌱 I’m love working on a fun project
+ 🌱 I love working on a fun project
  
  👯 I’m looking to collaborate on any fun project
  
