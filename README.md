@@ -9,7 +9,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **MERN**
+ 🔭 I’m currently working on **MERN** and **Django**
  
  🌱 I love working on a fun project
  
