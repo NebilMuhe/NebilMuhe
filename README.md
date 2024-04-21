@@ -3,13 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Mooli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nebil+Muhidin!;" />
 </h1>
 
-<h3 align="center" color="v">A passionate software developer | Telegram bot developer</h3>
+<h3 align="center" color="v">A passionate software developer | Telegram bot developer | Backend Developer</h3>
 
 <br/>
 
 <div align="left">
  
- 🔭 I’m currently working on **MERN** and **Django**
+ 🔭 I’m currently working on **MERN** and **Golang**
  
  🌱 I love working on a fun project
  
