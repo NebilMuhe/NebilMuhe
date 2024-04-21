@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,go,php,react,redux,nodejs,express,gin,firebase,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,go,php,react,redux,nodejs,express,gin,firebase,mongodb,mysql,postgres" />
   </a>
     <br>
     <a href="https://skillicons.dev">
