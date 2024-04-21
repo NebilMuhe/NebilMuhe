@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Mooli&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nebil+Muhidin!;" />
 </h1>
 
-<h3 align="center" color="v">A passionate software developer | Telegram bot developer | Backend Developer</h3>
+<h3 align="center" color="v">Software developer | Telegram bot developer | Backend Developer</h3>
 
 <br/>
 
@@ -45,7 +45,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,express,python,java,cpp,php,firebase,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,go,php,react,redux,nodejs,express,firebase,mongodb,mysql" />
   </a>
     <br>
     <a href="https://skillicons.dev">
