@@ -8,7 +8,7 @@
 <br/>
 
 <div align="left">
- ![Profile views](https://komarev.com/ghpvc/?username=NebilMuhe&color=blue)
+ 
 
  🔭 I’m currently working on **Python** and **Golang**
  
@@ -63,3 +63,6 @@
 </h3>
 
 <br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nebilmuhe&label=Profile+Views&color=0e75b6&style=flat" alt="nebilmuhe" />
+</p>
