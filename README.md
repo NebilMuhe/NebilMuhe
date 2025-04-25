@@ -8,7 +8,8 @@
 <br/>
 
 <div align="left">
- 
+ ![Profile views](https://komarev.com/ghpvc/?username=NebilMuhe&color=blue)
+
  🔭 I’m currently working on **Python** and **Golang**
  
  🌱 I love working on a fun project
